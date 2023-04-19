@@ -1,0 +1,30 @@
+.background {
+	background-image: url(../Images/1.jpg);
+  width: auto;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #cccccc00;
+}
+  
+
+<p>
+        <pre>
+            <h1><center>Spam detection using Machine learning Methods.</center></h1>
+        </pre>
+    </p>
+	  <br><br><br>
+	  <img src="../Images/2.jpg" width="200" height="150">
+ <br><br><br><br><br><br>
+   
+ <form action="/action_page.php">
+ 
+    <label for="fname">ENTER YOUR MESSAGE -------> </label>
+    <input type="text" id="message" name="message"  size="100"> <br><br><br>
+
+ <br> 
+   <button onclick="myFunction()">SUBMIT</button>
+
+</form>
+
